@@ -16,3 +16,6 @@ venv/
 *.out
 *.mod
 *.sum
+
+# For private access key to hf
+.env.private
