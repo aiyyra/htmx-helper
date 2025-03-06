@@ -1,0 +1,18 @@
+# Ignore Python environment and build files
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+venv/
+.env
+
+# Ignore Golang environment and build files
+/bin/
+/pkg/
+*.exe
+*.test
+*.out
+*.mod
+*.sum
